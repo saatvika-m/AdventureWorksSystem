@@ -13,5 +13,10 @@ Different Users:
  - Customer - Creates the orders
  - Line manager - Approves the orders
 
-Model Driven App:
-I have linked videos which explain what the functionality of the app is. The product table contain all the data which was imported from an excel file. There are an additional two tables which are the Order table and the Shopping Basket table. The order table has all the details on the orders that the customer creates after they checkout. The Shopping Basket table includes the data of what is in the customers current shopping basket; they can edit this shopping basket in the app and remove and add items that they desire with the required quantity.  
+Functionality of the app:
+
+I have linked videos which explain what the functionality of the app is. The product table contain all the data which was imported from an excel file. There are an additional two tables which are the Order table and the Shopping Basket table. The order table has all the details on the orders that the customer creates after they checkout. The Shopping Basket table includes the data of what is in the customers current shopping basket; they can edit this shopping basket in the app and remove and add items that they desire with the required quantity. 
+
+After checking out, the line manager is sent an approval request via email using a Power Automate flow. After approval, the customer is then sent an email containing their order details. 
+
+We used Power BI to create a dashboard which includes different statistical models to show analytics of the products. For example, it shows the most popular products. We creted this dashboard by using the information from the order table.
