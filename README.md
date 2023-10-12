@@ -15,9 +15,11 @@ Different Users:
 
 Functionality of the app:
 
-I have linked videos which explain what the functionality of the app is. The product table contain all the data which was imported from an excel file. There are an additional two tables which are the Order table and the Shopping Basket table. The order table has all the details on the orders that the customer creates after they checkout. The Shopping Basket table includes the data of what is in the customers current shopping basket; they can edit this shopping basket in the app and remove and add items that they desire with the required quantity. 
+The product table contain all the data which was imported from an excel file. There are an additional two tables which are the Order table and the Shopping Basket table. The order table has all the details on the orders that the customer creates after they checkout. The Shopping Basket table includes the data of what is in the customers current shopping basket.
 
 ![A0BC7695-0E07-4AFA-B31F-D80155AA6CB7](https://github.com/saatvika-m/AdventureWorksSystem/assets/145695375/188664d7-a3e9-4fd4-9a86-d2d0c11c754a)
+
+In the app they can edit this shopping basket by removing and adding items that they desire with the required quantity. They then move to a checkout page where they can again delete or change the quantity of the items. They can put in their address for delivery information.
 
 ![6D99A89B-D4EB-411A-883E-436460C94A42](https://github.com/saatvika-m/AdventureWorksSystem/assets/145695375/5ffc0638-4252-43ae-8516-dbf695db547a)
 ![5C07BB05-7196-4EA0-8F15-6720D3E3850C](https://github.com/saatvika-m/AdventureWorksSystem/assets/145695375/d5173858-58b3-4604-b528-478977beb43d)
